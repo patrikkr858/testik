@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "alcoholID": "Chivas Regal",
+    "price": "53€",
+    "img": "img/a1.png",
+    "detail": " Aliquam interdum a libero vel egestas. Aenean sagittis odio id enim lobortis finibus. Mauris dapibus diam a magna maximus, non imperdiet ligula eleifend. Pellentesque pulvinar, est sit amet rutrum porttitor, mauris ex semper risus, nec vehicula dolor libero eleifend erat. Aliquam sed lacus tincidunt, pretium nisl vel, accumsan urna. Sed sagittis ullamcorper gravida. In hac habitasse platea dictumst. "
+  },
+  {
+    "id": 2,
+    "alcoholID": "Ballantine's Finest",
+    "price": "14€",
+    "img": "img/a2.png",
+    "detail": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+  },
+  {
+    "id": 3,
+    "alcoholID": "Chivas 21 year",
+    "price": "67€",
+    "img": "img/a3.png",
+    "detail": "Praesent malesuada mattis tortor vel ornare. Curabitur quis odio nec felis pulvinar elementum eget a arcu. Nullam tristique imperdiet velit sit amet bibendum. Quisque dolor felis, porttitor non ipsum quis, ornare pretium nunc. Cras rhoncus tincidunt aliquam. Nam eu purus non sem cursus lacinia a sit amet lectus."
+  },
+  {
+    "id": 4,
+    "alcoholID": "Scapa Skiren",
+    "price": "50€",
+    "img": "img/a4.png",
+    "detail": "Habitang ekfelents riskuto morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+  },
+  {
+    "id": 5,
+    "alcoholID": "Delamain Vesper",
+    "price": "49€",
+    "img": "img/a5.png",
+    "detail": "Proin quis suscipit magna. Nulla quis risus leo. Nam eget magna viverra orci sagittis gravida ac sit amet ex. Quisque dictum aliquet est, in eleifend sem pretium vestibulum. Donec lobortis aliquam venenatis. Fusce diam erat, gravida eget ultrices vel, porta a nisl. Duis at risus ligula. Duis at mauris in risus placerat porta."
+  },
+  {
+    "id": 6,
+    "alcoholID": "Porta Ligula",
+    "price": "33€",
+    "img": "img/a6.png",
+    "detail": "Vestibulum vitae ultricies nisl. Pellentesque bibendum odio ac turpis tempus, a ultrices dolor pulvinar. Cras pellentesque fringilla leo ac hendrerit. In vestibulum rhoncus fringilla. Donec ac purus vel libero venenatis pharetra. Nullam ultricies ultricies venenatis. Donec blandit varius risus, id porttitor metus pulvinar nec."
+  },
+  {
+    "id": 7,
+    "alcoholID": "Chivas 20 year",
+    "price": "500€",
+    "img": "img/a7.png",
+    "detail": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis, libero eget ultrices facilisis, ante augue sollicitudin est, ac viverra ipsum nulla malesuada sapien. Vivamus imperdiet condimentum sapien, vitae volutpat eros pharetra ac. Phasellus eget tortor magna. Nulla blandit convallis nisi, a vulputate orci."
+  }
+]
